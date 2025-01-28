@@ -1,0 +1,76 @@
+{"train":[
+    {
+        "Chills": "Y",
+        "runny nose": "N",
+        "head ache": "Mild",
+        "fever": "Y",
+        "Flu": "N"
+    },
+    {
+        "Chills": "Y",
+        "runny nose": "Y",
+        "head ache": "No",
+        "fever": "N",
+        "Flu": "Y"
+    },
+    {
+        "Chills": "Y",
+        "runny nose": "N",
+        "head ache": "Strong",
+        "fever": "Y",
+        "Flu": "Y"
+    },
+    {
+        "Chills": "N",
+        "runny nose": "Y",
+        "head ache": "Mild",
+        "fever": "Y",
+        "Flu": "Y"
+    },
+    {
+        "Chills": "N",
+        "runny nose": "N",
+        "head ache": "No",
+        "fever": "N",
+        "Flu": "N"
+    },
+    {
+        "Chills": "N",
+        "runny nose": "Y",
+        "head ache": "Strong",
+        "fever": "Y",
+        "Flu": "Y"
+    },
+    {
+        "Chills": "N",
+        "runny nose": "Y",
+        "head ache": "Strong",
+        "fever": "N",
+        "Flu": "N"
+    },
+    {
+        "Chills": "Y",
+        "runny nose": "Y",
+        "head ache": "Mild",
+        "fever": "Y",
+        "Flu": "Y"
+    }
+],
+
+"test": [
+    {
+        "Chills": "Y",
+        "runny nose": "N",
+        "head ache": "Strong",
+        "fever": "N"
+        
+    },
+    {
+        "Chills": "N",
+        "runny nose": "N",
+        "head ache": "Mild",
+        "fever": "Y"
+    }
+
+]
+}
